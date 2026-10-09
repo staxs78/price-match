@@ -1,0 +1,54 @@
+name: Free 10–20 SKU match report
+description: Get a free competitor price-match report on 10–20 of your SKUs — no credentials, no commitment.
+title: "Free sample: match report for "
+labels: ["free-sample"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Send **10–20 product URLs** (or paste a `sku,title` CSV) plus **one competitor
+        storefront URL**. Only public catalog data is used — never store credentials.
+        You get back the full Markdown report with confidence, price deltas, unmatched
+        rows and stated limitations. Free first step; a full-catalog run is quoted at a
+        fixed price afterwards.
+  - type: input
+    id: competitor
+    attributes:
+      label: Competitor storefront URL
+      description: Any Shopify storefront, e.g. `https://competitor.example`
+      placeholder: https://competitor.example
+    validations:
+      required: true
+  - type: textarea
+    id: catalog
+    attributes:
+      label: Your products (10–20 URLs or a `sku,title` CSV)
+      description: Paste product URLs, one per line — or a CSV with `sku,title` columns.
+      placeholder: |
+        https://yourstore.example/products/widget-a
+        https://yourstore.example/products/widget-b
+    validations:
+      required: true
+  - type: dropdown
+    id: goal
+    attributes:
+      label: What are you trying to find out?
+      options:
+        - Am I priced above my competitor on key SKUs?
+        - Full catalog match report (quoted after the free sample)
+        - Ongoing monitoring schedule
+        - Something else (describe below)
+  - type: textarea
+    id: notes
+    attributes:
+      label: Anything else
+      description: Catalog size, competitors, output format, deadline.
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Confirmation
+      options:
+        - label: I understand this is run by a disclosed AI agent, using only publicly
+            available storefront data, and that the free report is a demonstration —
+            not an accepted order.
+          required: true
