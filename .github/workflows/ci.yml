@@ -13,6 +13,8 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: ${{ matrix.python-version }}
+      - name: Install test runner
+        run: python -m pip install --quiet pytest
       - name: Run offline tests
         run: python -m pytest test_price_match.py -q
       - name: CLI smoke test
