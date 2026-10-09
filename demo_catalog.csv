@@ -1,21 +1,7 @@
 sku,title,price,url
-A12513W050,Women's Allbirds Flip Flop - Dusty Pink,25.00,https://www.allbirds.com/products/womens-allbirds-flip-flop-dusty-pink?variant=42146889039952
-A12513W060,Women's Allbirds Flip Flop - Dusty Pink,25.00,https://www.allbirds.com/products/womens-allbirds-flip-flop-dusty-pink?variant=42146889072720
-A12513W070,Women's Allbirds Flip Flop - Dusty Pink,25.00,https://www.allbirds.com/products/womens-allbirds-flip-flop-dusty-pink?variant=42146889105488
-A12513W080,Women's Allbirds Flip Flop - Dusty Pink,25.00,https://www.allbirds.com/products/womens-allbirds-flip-flop-dusty-pink?variant=42146889138256
-A12513W090,Women's Allbirds Flip Flop - Dusty Pink,25.00,https://www.allbirds.com/products/womens-allbirds-flip-flop-dusty-pink?variant=42146889171024
-A12513W100,Women's Allbirds Flip Flop - Dusty Pink,25.00,https://www.allbirds.com/products/womens-allbirds-flip-flop-dusty-pink?variant=42146889203792
-A12513W110,Women's Allbirds Flip Flop - Dusty Pink,25.00,https://www.allbirds.com/products/womens-allbirds-flip-flop-dusty-pink?variant=42146889236560
-A12498M080,Men's Canvas Runner NZ - Deep Navy Stripes (Blizzard Sole),100.00,https://www.allbirds.com/products/mens-canvas-runner-nz?variant=41884546990160
-A12498M085,Men's Canvas Runner NZ - Deep Navy Stripes (Blizzard Sole),100.00,https://www.allbirds.com/products/mens-canvas-runner-nz?variant=41884547022928
-A12498M090,Men's Canvas Runner NZ - Deep Navy Stripes (Blizzard Sole),100.00,https://www.allbirds.com/products/mens-canvas-runner-nz?variant=41884547055696
-A12498M095,Men's Canvas Runner NZ - Deep Navy Stripes (Blizzard Sole),100.00,https://www.allbirds.com/products/mens-canvas-runner-nz?variant=41884547088464
-A12498M100,Men's Canvas Runner NZ - Deep Navy Stripes (Blizzard Sole),100.00,https://www.allbirds.com/products/mens-canvas-runner-nz?variant=41884547121232
-A12498M105,Men's Canvas Runner NZ - Deep Navy Stripes (Blizzard Sole),100.00,https://www.allbirds.com/products/mens-canvas-runner-nz?variant=41884547154000
-A12498M110,Men's Canvas Runner NZ - Deep Navy Stripes (Blizzard Sole),100.00,https://www.allbirds.com/products/mens-canvas-runner-nz?variant=41884547186768
-A12498M115,Men's Canvas Runner NZ - Deep Navy Stripes (Blizzard Sole),100.00,https://www.allbirds.com/products/mens-canvas-runner-nz?variant=41884547219536
-A12498M120,Men's Canvas Runner NZ - Deep Navy Stripes (Blizzard Sole),100.00,https://www.allbirds.com/products/mens-canvas-runner-nz?variant=41884547252304
-A12498M125,Men's Canvas Runner NZ - Deep Navy Stripes (Blizzard Sole),100.00,https://www.allbirds.com/products/mens-canvas-runner-nz?variant=41884547285072
-A12498M130,Men's Canvas Runner NZ - Deep Navy Stripes (Blizzard Sole),100.00,https://www.allbirds.com/products/mens-canvas-runner-nz?variant=41884547317840
-A12498M135,Men's Canvas Runner NZ - Deep Navy Stripes (Blizzard Sole),100.00,https://www.allbirds.com/products/mens-canvas-runner-nz?variant=41884547350608
-A12498M140,Men's Canvas Runner NZ - Deep Navy Stripes (Blizzard Sole),100.00,https://www.allbirds.com/products/mens-canvas-runner-nz?variant=41884547383376
+TRK-1001,Trail Runner Shoes - Men's 10,99.00,https://your-store.example/products/trail-runner-shoes-men's-10
+TRK-1002,Trail Runner Shoes - Men's 11,89.99,https://your-store.example/products/trail-runner-shoes-men's-11
+HYD-2040,Hydration Pack 2L,34.95,https://your-store.example/products/hydration-pack-2l
+,Sleeping Bag Envelope Plus,64.99,https://your-store.example/products/sleeping-bag-envelope-plus
+,Trail Sandal - Womens 7,45.00,https://your-store.example/products/trail-sandal-womens-7
+ST-900,Steel Tent Stake (4 pack),11.00,https://your-store.example/products/steel-tent-stake-(4-pack)

@@ -48,12 +48,19 @@ Example report generated from the included sample:
 
 ## Example
 
+Sample report generated from the included six-item catalog
+(`make_demo_report.py` reproduces it): [demo_report.md](demo_report.md)
+([JSON](demo_report.json)). Rows show a price delta in both directions, a
+low-confidence fuzzy match flagged for review, and unmatched items:
+
 ```text
-| SKU      | Your price | Competitor price | Delta  | Method       | Conf |
-|----------|-----------|------------------|--------|--------------|------|
-| ABC-123  | 22.00     | 19.99            | +10.1% | sku          | 1.00 |
-| (none)   | 35.00     | 39.00            | -10.3% | title_exact  | 0.90 |
-| (none)   | 5.00      | 5.50             | -9.1%  | title_fuzzy  | 0.72 |
+| SKU     | Your price | Competitor | Delta  | Method      | Conf  | Note        |
+|---------|-----------|------------|--------|-------------|-------|-------------|
+| TRK-1001| 99.00     | 89.99      | +10.0% | sku         | 1.00  | you are above |
+| TRK-1002| 89.99     | 89.99      | 0.0%   | sku         | 1.00  | tied        |
+| HYD-2040| 34.95     | 39.50      | -11.5% | sku         | 1.00  | you are below |
+| (none)  | 64.99     | 59.00      | +10.2% | title_fuzzy | 0.50  | review flag |
+| (none)  | 45.00     | -          | -      | none        | -     | unmatched   |
 ```
 
 ## Verifying it works
@@ -62,9 +69,11 @@ Example report generated from the included sample:
 python -m pytest test_price_match.py -q   # 8 passed
 ```
 
-Tests are fully offline. A live run against real storefront feeds (20-SKU
-catalog vs. feeds of 7,454 and 24,503 variants) is described in
-[`demo_report.md`](demo_report.md).
+Tests are fully offline. The sample report above comes from the included
+six-item catalog — run `python make_demo_report.py` to reproduce it
+deterministically. In addition, the matcher was exercised against real
+storefront feeds during validation (a 20-SKU catalog matched against feeds of
+7,454 and 24,503 variants).
 
 ## Free first step → paid pilot
 
