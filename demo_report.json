@@ -1,0 +1,344 @@
+{
+ "https://www.allbirds.com": [
+  {
+   "catalog_sku": "A12513W050",
+   "catalog_title": "Women's Allbirds Flip Flop - Dusty Pink",
+   "catalog_price": "25.00",
+   "method": "sku",
+   "confidence": 1.0,
+   "match": {
+    "origin": "https://www.allbirds.com",
+    "title": "Women's Allbirds Flip Flop - Dusty Pink [5]",
+    "sku": "A12513W050",
+    "price": "25.00",
+    "available": false,
+    "url": "https://www.allbirds.com/products/womens-allbirds-flip-flop-dusty-pink?variant=42146889039952"
+   },
+   "delta_pct": 0.0,
+   "cheaper_than_competitor": false
+  },
+  {
+   "catalog_sku": "A12513W060",
+   "catalog_title": "Women's Allbirds Flip Flop - Dusty Pink",
+   "catalog_price": "25.00",
+   "method": "sku",
+   "confidence": 1.0,
+   "match": {
+    "origin": "https://www.allbirds.com",
+    "title": "Women's Allbirds Flip Flop - Dusty Pink [6]",
+    "sku": "A12513W060",
+    "price": "25.00",
+    "available": false,
+    "url": "https://www.allbirds.com/products/womens-allbirds-flip-flop-dusty-pink?variant=42146889072720"
+   },
+   "delta_pct": 0.0,
+   "cheaper_than_competitor": false
+  },
+  {
+   "catalog_sku": "A12513W070",
+   "catalog_title": "Women's Allbirds Flip Flop - Dusty Pink",
+   "catalog_price": "25.00",
+   "method": "sku",
+   "confidence": 1.0,
+   "match": {
+    "origin": "https://www.allbirds.com",
+    "title": "Women's Allbirds Flip Flop - Dusty Pink [7]",
+    "sku": "A12513W070",
+    "price": "25.00",
+    "available": false,
+    "url": "https://www.allbirds.com/products/womens-allbirds-flip-flop-dusty-pink?variant=42146889105488"
+   },
+   "delta_pct": 0.0,
+   "cheaper_than_competitor": false
+  },
+  {
+   "catalog_sku": "A12513W080",
+   "catalog_title": "Women's Allbirds Flip Flop - Dusty Pink",
+   "catalog_price": "25.00",
+   "method": "sku",
+   "confidence": 1.0,
+   "match": {
+    "origin": "https://www.allbirds.com",
+    "title": "Women's Allbirds Flip Flop - Dusty Pink [8]",
+    "sku": "A12513W080",
+    "price": "25.00",
+    "available": false,
+    "url": "https://www.allbirds.com/products/womens-allbirds-flip-flop-dusty-pink?variant=42146889138256"
+   },
+   "delta_pct": 0.0,
+   "cheaper_than_competitor": false
+  },
+  {
+   "catalog_sku": "A12513W090",
+   "catalog_title": "Women's Allbirds Flip Flop - Dusty Pink",
+   "catalog_price": "25.00",
+   "method": "sku",
+   "confidence": 1.0,
+   "match": {
+    "origin": "https://www.allbirds.com",
+    "title": "Women's Allbirds Flip Flop - Dusty Pink [9]",
+    "sku": "A12513W090",
+    "price": "25.00",
+    "available": false,
+    "url": "https://www.allbirds.com/products/womens-allbirds-flip-flop-dusty-pink?variant=42146889171024"
+   },
+   "delta_pct": 0.0,
+   "cheaper_than_competitor": false
+  },
+  {
+   "catalog_sku": "A12513W100",
+   "catalog_title": "Women's Allbirds Flip Flop - Dusty Pink",
+   "catalog_price": "25.00",
+   "method": "sku",
+   "confidence": 1.0,
+   "match": {
+    "origin": "https://www.allbirds.com",
+    "title": "Women's Allbirds Flip Flop - Dusty Pink [10]",
+    "sku": "A12513W100",
+    "price": "25.00",
+    "available": true,
+    "url": "https://www.allbirds.com/products/womens-allbirds-flip-flop-dusty-pink?variant=42146889203792"
+   },
+   "delta_pct": 0.0,
+   "cheaper_than_competitor": false
+  },
+  {
+   "catalog_sku": "A12513W110",
+   "catalog_title": "Women's Allbirds Flip Flop - Dusty Pink",
+   "catalog_price": "25.00",
+   "method": "sku",
+   "confidence": 1.0,
+   "match": {
+    "origin": "https://www.allbirds.com",
+    "title": "Women's Allbirds Flip Flop - Dusty Pink [11]",
+    "sku": "A12513W110",
+    "price": "25.00",
+    "available": false,
+    "url": "https://www.allbirds.com/products/womens-allbirds-flip-flop-dusty-pink?variant=42146889236560"
+   },
+   "delta_pct": 0.0,
+   "cheaper_than_competitor": false
+  },
+  {
+   "catalog_sku": "A12498M080",
+   "catalog_title": "Men's Canvas Runner NZ - Deep Navy Stripes (Blizzard Sole)",
+   "catalog_price": "100.00",
+   "method": "sku",
+   "confidence": 1.0,
+   "match": {
+    "origin": "https://www.allbirds.com",
+    "title": "Men's Canvas Runner NZ - Deep Navy Stripes (Blizzard Sole) [8]",
+    "sku": "A12498M080",
+    "price": "100.00",
+    "available": false,
+    "url": "https://www.allbirds.com/products/mens-canvas-runner-nz?variant=41884546990160"
+   },
+   "delta_pct": 0.0,
+   "cheaper_than_competitor": false
+  },
+  {
+   "catalog_sku": "A12498M085",
+   "catalog_title": "Men's Canvas Runner NZ - Deep Navy Stripes (Blizzard Sole)",
+   "catalog_price": "100.00",
+   "method": "sku",
+   "confidence": 1.0,
+   "match": {
+    "origin": "https://www.allbirds.com",
+    "title": "Men's Canvas Runner NZ - Deep Navy Stripes (Blizzard Sole) [8.5]",
+    "sku": "A12498M085",
+    "price": "100.00",
+    "available": true,
+    "url": "https://www.allbirds.com/products/mens-canvas-runner-nz?variant=41884547022928"
+   },
+   "delta_pct": 0.0,
+   "cheaper_than_competitor": false
+  },
+  {
+   "catalog_sku": "A12498M090",
+   "catalog_title": "Men's Canvas Runner NZ - Deep Navy Stripes (Blizzard Sole)",
+   "catalog_price": "100.00",
+   "method": "sku",
+   "confidence": 1.0,
+   "match": {
+    "origin": "https://www.allbirds.com",
+    "title": "Men's Canvas Runner NZ - Deep Navy Stripes (Blizzard Sole) [9]",
+    "sku": "A12498M090",
+    "price": "100.00",
+    "available": false,
+    "url": "https://www.allbirds.com/products/mens-canvas-runner-nz?variant=41884547055696"
+   },
+   "delta_pct": 0.0,
+   "cheaper_than_competitor": false
+  },
+  {
+   "catalog_sku": "A12498M095",
+   "catalog_title": "Men's Canvas Runner NZ - Deep Navy Stripes (Blizzard Sole)",
+   "catalog_price": "100.00",
+   "method": "sku",
+   "confidence": 1.0,
+   "match": {
+    "origin": "https://www.allbirds.com",
+    "title": "Men's Canvas Runner NZ - Deep Navy Stripes (Blizzard Sole) [9.5]",
+    "sku": "A12498M095",
+    "price": "100.00",
+    "available": false,
+    "url": "https://www.allbirds.com/products/mens-canvas-runner-nz?variant=41884547088464"
+   },
+   "delta_pct": 0.0,
+   "cheaper_than_competitor": false
+  },
+  {
+   "catalog_sku": "A12498M100",
+   "catalog_title": "Men's Canvas Runner NZ - Deep Navy Stripes (Blizzard Sole)",
+   "catalog_price": "100.00",
+   "method": "sku",
+   "confidence": 1.0,
+   "match": {
+    "origin": "https://www.allbirds.com",
+    "title": "Men's Canvas Runner NZ - Deep Navy Stripes (Blizzard Sole) [10]",
+    "sku": "A12498M100",
+    "price": "100.00",
+    "available": true,
+    "url": "https://www.allbirds.com/products/mens-canvas-runner-nz?variant=41884547121232"
+   },
+   "delta_pct": 0.0,
+   "cheaper_than_competitor": false
+  },
+  {
+   "catalog_sku": "A12498M105",
+   "catalog_title": "Men's Canvas Runner NZ - Deep Navy Stripes (Blizzard Sole)",
+   "catalog_price": "100.00",
+   "method": "sku",
+   "confidence": 1.0,
+   "match": {
+    "origin": "https://www.allbirds.com",
+    "title": "Men's Canvas Runner NZ - Deep Navy Stripes (Blizzard Sole) [10.5]",
+    "sku": "A12498M105",
+    "price": "100.00",
+    "available": true,
+    "url": "https://www.allbirds.com/products/mens-canvas-runner-nz?variant=41884547154000"
+   },
+   "delta_pct": 0.0,
+   "cheaper_than_competitor": false
+  },
+  {
+   "catalog_sku": "A12498M110",
+   "catalog_title": "Men's Canvas Runner NZ - Deep Navy Stripes (Blizzard Sole)",
+   "catalog_price": "100.00",
+   "method": "sku",
+   "confidence": 1.0,
+   "match": {
+    "origin": "https://www.allbirds.com",
+    "title": "Men's Canvas Runner NZ - Deep Navy Stripes (Blizzard Sole) [11]",
+    "sku": "A12498M110",
+    "price": "100.00",
+    "available": true,
+    "url": "https://www.allbirds.com/products/mens-canvas-runner-nz?variant=41884547186768"
+   },
+   "delta_pct": 0.0,
+   "cheaper_than_competitor": false
+  },
+  {
+   "catalog_sku": "A12498M115",
+   "catalog_title": "Men's Canvas Runner NZ - Deep Navy Stripes (Blizzard Sole)",
+   "catalog_price": "100.00",
+   "method": "sku",
+   "confidence": 1.0,
+   "match": {
+    "origin": "https://www.allbirds.com",
+    "title": "Men's Canvas Runner NZ - Deep Navy Stripes (Blizzard Sole) [11.5]",
+    "sku": "A12498M115",
+    "price": "100.00",
+    "available": false,
+    "url": "https://www.allbirds.com/products/mens-canvas-runner-nz?variant=41884547219536"
+   },
+   "delta_pct": 0.0,
+   "cheaper_than_competitor": false
+  },
+  {
+   "catalog_sku": "A12498M120",
+   "catalog_title": "Men's Canvas Runner NZ - Deep Navy Stripes (Blizzard Sole)",
+   "catalog_price": "100.00",
+   "method": "sku",
+   "confidence": 1.0,
+   "match": {
+    "origin": "https://www.allbirds.com",
+    "title": "Men's Canvas Runner NZ - Deep Navy Stripes (Blizzard Sole) [12]",
+    "sku": "A12498M120",
+    "price": "100.00",
+    "available": false,
+    "url": "https://www.allbirds.com/products/mens-canvas-runner-nz?variant=41884547252304"
+   },
+   "delta_pct": 0.0,
+   "cheaper_than_competitor": false
+  },
+  {
+   "catalog_sku": "A12498M125",
+   "catalog_title": "Men's Canvas Runner NZ - Deep Navy Stripes (Blizzard Sole)",
+   "catalog_price": "100.00",
+   "method": "sku",
+   "confidence": 1.0,
+   "match": {
+    "origin": "https://www.allbirds.com",
+    "title": "Men's Canvas Runner NZ - Deep Navy Stripes (Blizzard Sole) [12.5]",
+    "sku": "A12498M125",
+    "price": "100.00",
+    "available": false,
+    "url": "https://www.allbirds.com/products/mens-canvas-runner-nz?variant=41884547285072"
+   },
+   "delta_pct": 0.0,
+   "cheaper_than_competitor": false
+  },
+  {
+   "catalog_sku": "A12498M130",
+   "catalog_title": "Men's Canvas Runner NZ - Deep Navy Stripes (Blizzard Sole)",
+   "catalog_price": "100.00",
+   "method": "sku",
+   "confidence": 1.0,
+   "match": {
+    "origin": "https://www.allbirds.com",
+    "title": "Men's Canvas Runner NZ - Deep Navy Stripes (Blizzard Sole) [13]",
+    "sku": "A12498M130",
+    "price": "100.00",
+    "available": false,
+    "url": "https://www.allbirds.com/products/mens-canvas-runner-nz?variant=41884547317840"
+   },
+   "delta_pct": 0.0,
+   "cheaper_than_competitor": false
+  },
+  {
+   "catalog_sku": "A12498M135",
+   "catalog_title": "Men's Canvas Runner NZ - Deep Navy Stripes (Blizzard Sole)",
+   "catalog_price": "100.00",
+   "method": "sku",
+   "confidence": 1.0,
+   "match": {
+    "origin": "https://www.allbirds.com",
+    "title": "Men's Canvas Runner NZ - Deep Navy Stripes (Blizzard Sole) [13.5]",
+    "sku": "A12498M135",
+    "price": "100.00",
+    "available": false,
+    "url": "https://www.allbirds.com/products/mens-canvas-runner-nz?variant=41884547350608"
+   },
+   "delta_pct": 0.0,
+   "cheaper_than_competitor": false
+  },
+  {
+   "catalog_sku": "A12498M140",
+   "catalog_title": "Men's Canvas Runner NZ - Deep Navy Stripes (Blizzard Sole)",
+   "catalog_price": "100.00",
+   "method": "sku",
+   "confidence": 1.0,
+   "match": {
+    "origin": "https://www.allbirds.com",
+    "title": "Men's Canvas Runner NZ - Deep Navy Stripes (Blizzard Sole) [14]",
+    "sku": "A12498M140",
+    "price": "100.00",
+    "available": true,
+    "url": "https://www.allbirds.com/products/mens-canvas-runner-nz?variant=41884547383376"
+   },
+   "delta_pct": 0.0,
+   "cheaper_than_competitor": false
+  }
+ ]
+}
